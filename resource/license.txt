@@ -1,0 +1,55 @@
+Copyright: 2019 Georgios Piskopanis, Freepik
+License: CC BY-NC-SA 4.0
+Files:
+alphabet.svg
+alphabet_notext.svg
+bar_about.svg
+bar_fullscreen.svg
+bar_help.svg
+bar_home.svg
+bar_next.svg
+bar_previous.svg
+colors.svg
+colors_notext.svg
+dice.svg
+eprobot.svg
+flower.svg
+frouta.svg
+frouta_notext.svg
+greece.svg (Vector created by drawnhy97 - www.freepik.com)
+greekmonuments.svg (Poster vector created by macrovector - www.freepik.com)
+grid.svg
+instr.svg
+instr_notext.svg
+monuments.svg (Poster vector created by macrovector - www.freepik.com)
+playground.svg
+school.svg (School vector created by brgfx - www.freepik.com)
+shapes.svg
+shapes_notext.svg
+signs.svg
+student.svg
+toys.svg
+
+
+background.svg (Background vector created by irina_timofeeva - www.freepik.com)
+ 
+Copyright: 2019 Dimitris Nikolos, Freepik
+beebot-bk.svg
+beebot-de.svg
+beebot-de1.svg
+beebot-fd.svg
+beebot-go.svg
+beebot-lt.svg
+beebot-pa.svg
+beebot-rt.svg
+beebot-st.svg
+flags.svg
+flowers.svg
+ladybug.svg (Original ladybug vector created by irina_timofeeva - www.freepik.com)
+newmaz.svg
+pencil-off.svg
+pencil-on.svg
+
+
+
+
